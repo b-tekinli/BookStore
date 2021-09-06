@@ -12,7 +12,7 @@ namespace WebApi.Controllers
         private static List<Book> BookList = new List<Book>() 
         { 
             new Book { 
-                Id = 1, 
+                Id = 1,
                 Title = "Lean Startup", 
                 GenreId = 1, // Personal Growth
                 PageCount = 200,
