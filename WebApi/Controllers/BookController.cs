@@ -64,6 +64,7 @@ namespace WebApi.Controllers
         */
 
 
+
         // Post  ==>   kendi static listemize 1 tane kitap ekleyeceğiz.
         [HttpPost]
         public IActionResult AddBook([FromBody] Book newBook) 
@@ -78,6 +79,7 @@ namespace WebApi.Controllers
             BookList.Add(newBook);
             return Ok();
         }
+
 
 
         // Put   ==>   mevcut kitap üzerinde değişiklik, güncelleme yapacağız.
@@ -99,5 +101,19 @@ namespace WebApi.Controllers
             return Ok();
         }
 
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteBook(int id)
+        {
+            var book = BookList.SingleOrDefault(x => x.Id == id);
+
+            if(book is null) 
+            {
+                return BadRequest();
+            }
+
+            BookList.Remove(book);
+            return Ok();
+        }
     }
 }
