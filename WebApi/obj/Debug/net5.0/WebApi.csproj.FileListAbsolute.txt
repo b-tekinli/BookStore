@@ -61,3 +61,5 @@ C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFra
 C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
