@@ -56,3 +56,8 @@ C:\Users\user\source\repos\BookStore\WebApi\obj\Debug\net5.0\WebApi.dll
 C:\Users\user\source\repos\BookStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\user\source\repos\BookStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\user\source\repos\BookStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\BookStore\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
